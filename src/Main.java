@@ -47,6 +47,7 @@ public class Main {
             case 11:
                 System.out.println("Koyun");
                 break;
+            default:
         }
     }
 }
